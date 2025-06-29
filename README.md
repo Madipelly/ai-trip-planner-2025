@@ -95,3 +95,9 @@ Budget: 36000 INR
 -	One particular challenge faced was when I tried to increase the dataset size, the OpenAI timeout error was quite frequent and hence had to use only 4 rows.
 -	Sometimes the bot still times out when trying to fetch the results, therefore please try again should you face any such errors.
 
+# Contributer
+* Shravan Madipelly
+   email id: shravan.madipelly@gmail.com 
+
+## Contact
+Created by [@https://github.com/Madipelly] - +91-9618188869
